@@ -21,4 +21,4 @@ Build a file-based key-value data store that supports the basic CRD (create, rea
 
 10.A client process is allowed to access the data store using multiple threads, if it desires to. The data store must therefore be thread-safe.
 
-11.The client will bear as little memory costs as possible to use this data store, while deriving maximum performance with respect to response times for accessing the data store
+11.The client will bear as little memory costs as possible to use this data store, while deriving maximum performance with respect to response times for accessing the data store.
